@@ -238,25 +238,3 @@ $string = implode(",", $programming);
 echo $string;
 }
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
